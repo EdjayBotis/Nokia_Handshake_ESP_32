@@ -68,14 +68,6 @@ When uploading your code, **you might encounter an upload error** (e.g., "Failed
 
 This is normal behavior for many ESP32 development boards without auto-reset hardware.
 
-
-## Future Improvements
-
-- Add multiple ringtone options
-- Trigger sounds wirelessly (since ESP32 supports Wi-Fi/Bluetooth!)
-- Add a boot animation sequence on the OLED
-- Battery-power the project for portability
-
 ---
 
 ## License
