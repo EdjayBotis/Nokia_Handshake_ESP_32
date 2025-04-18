@@ -10,16 +10,7 @@ github = "adafruit/Adafruit-GFX-Library"
 github = "adafruit/Adafruit_SSD1306"
 
 [[dependencies]]
-github = "adafruit/DHT-sensor-library"
-
-[[dependencies]]
 github = "adafruit/Adafruit_BusIO"
-
-[[dependencies]]
-github = "adafruit/RTClib"
-
-[[dependencies]]
-github = "adafruit/ILI9341"
 
 [[dependencies]]
 github = "olikraus/U8g2_Arduino"
