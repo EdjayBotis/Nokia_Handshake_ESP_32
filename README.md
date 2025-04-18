@@ -22,7 +22,7 @@ This project recreates the iconic Nokia startup handshake and ringtone using an 
 | OLED VCC   | 3V3       |
 | OLED SCL   | D22       |
 | OLED SDA   | D21       |
-| Buzzer (+) | D13       |
+| Buzzer (+) | D26       |
 | Buzzer (-) | GND       |
 
 ![image](https://github.com/user-attachments/assets/e57eec7e-20ad-46e7-8e69-7b5ca4b0acd0)
