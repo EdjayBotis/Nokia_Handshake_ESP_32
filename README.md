@@ -77,7 +77,7 @@ The Nokia logo and ringtone are trademarks of Nokia Corporation.
 
 ---
 
-## ✨ Created By
+## Created By
 
 **Edjay**
 
