@@ -1,9 +1,5 @@
 # Nokia Handshake ESP32 Project 
 
-This project recreates the iconic Nokia startup handshake and ringtone using an **ESP32**, an **OLED SSD1306 display**, and a **passive buzzer**.
-
----
-
 ## Components Used
 
 - ESP32 Dev Board  
